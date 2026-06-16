@@ -15,14 +15,81 @@
 
 ## About Me
 
-```yaml
-name: Amrat Gupta
-location: Uttar Pradesh, India 
-role: Full Stack Developer
-focus: Building meaningful digital experiences
+- **Name:** Amrat Gupta
+- **Location:** Uttar Pradesh, India 
+- **Role:** Full Stack Developer
+- **Focus:** Building meaningful digital experiences
 
-currently:
-  -    Working on exciting full-stack and open source projects
-  -    Deepening expertise in React & Next.js
-  -    Exploring AI/ML 
-  -    Turning ideas into reality, one commit at a time
+**Currently:**
+- Working on exciting full-stack and open source projects
+- Deepening expertise in React & Next.js
+- Exploring AI/ML 
+- Turning ideas into reality, one commit at a time
+
+<br clear="right"/>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![](https://github-trophies.vercel.app/?username=CodeWithAmrat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
+## Tech Arsenal
+
+<div align="center">
+
+### Languages
+![Languages](https://skillicons.dev/icons?i=cpp,python,java,js,typescript&theme=dark)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,react,next,sass,tailwind,bootstrap&theme=dark)
+
+### Backend & DB
+![Backend & DB](https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb&theme=dark)
+
+### Tools & Environment 
+![Tools](https://skillicons.dev/icons?i=linux,git,vscode,premiere,ps&theme=dark)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://yourinsights.vercel.app/api/insight?username=CodeWithAmrat&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithAmrat/CodeWithAmrat/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithAmrat/CodeWithAmrat/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeWithAmrat/CodeWithAmrat/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=CodeWithAmrat&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
