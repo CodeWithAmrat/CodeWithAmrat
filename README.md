@@ -16,7 +16,7 @@
 ## About Me
 
 - **Name:** Amrat Gupta
-- **Location:** Uttar Pradesh, India 
+- **Location:** Lucknow, Uttar Pradesh, India 
 - **Role:** Full Stack Developer
 - **Focus:** Building meaningful digital experiences
 
